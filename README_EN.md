@@ -258,6 +258,13 @@ print(response.choices[0].message.content)
         - **Multimodal Optimization**: Deep adaptation for Imagen 3 with 100MB payload capacity and aspect ratio controls.
         - **Global Upstream Proxy**: Centralized request management supporting HTTP/SOCKS5 with hot-reloading.
     *   See [Releases](https://github.com/lbjlaq/Antigravity-Manager/releases) for earlier history.
+
+## 👥 Contributors
+
+<a href="https://github.com/lbjlaq"><img src="https://github.com/lbjlaq.png" width="50px" style="border-radius: 50%;" alt="lbjlaq"/></a>
+<a href="https://github.com/XinXin622"><img src="https://github.com/XinXin622.png" width="50px" style="border-radius: 50%;" alt="XinXin622"/></a>
+
+Special thanks to all developers who have contributed to this project.
 *   **License**: **CC BY-NC-SA 4.0**. Strictly for non-commercial use.
 *   **Security**: All account data is encrypted and stored locally in a SQLite database. Data never leaves your device unless sync is enabled.
 
